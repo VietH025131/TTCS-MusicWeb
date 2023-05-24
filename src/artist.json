@@ -1,0 +1,53 @@
+{
+    "name": "Rust In Peace",
+    "albumCover": "/images/albumCovers/RustInPeace.jpeg",
+    "releaseYear": "1990",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Holy Wars...The Punishment Due",
+            "path": "/songs/RustInPeace/Holy Wars...The Punishment Due.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Hangar 18",
+            "path": "/songs/RustInPeace/Hangar 18.mp3"
+
+        },
+        {
+            "id": 3,
+            "name": "Take No Prisoners",
+            "path": "/songs/RustInPeace/Take No Prisoners.mp3"
+        },
+        {
+            "id": 4,
+            "name": "Five Magics",
+            "path": "/songs/RustInPeace/Five Magics.mp3"
+        },
+        {
+            "id": 5,
+            "name": "Poison Was the Cure",
+            "path": "/songs/RustInPeace/Poison Was The Cure.mp3"
+        },
+        {
+            "id": 6,
+            "name": "Lucretia",
+            "path": "/songs/RustInPeace/Lucretia.mp3"
+        },
+        {
+            "id": 7,
+            "name": "Tornado of Souls",
+            "path": "/songs/RustInPeace/Tornado Of Souls.mp3"
+        },
+        {
+            "id": 8,
+            "name": "Dawn Patrol",
+            "path": "/songs/RustInPeace/Dawn Patrol.mp3"
+        },
+        {
+            "id": 9,
+            "name": "Rust in Peace...Polaris",
+            "path": "/songs/RustInPeace/Rust In Peace...Polaris.mp3"
+        }
+    ]
+}
